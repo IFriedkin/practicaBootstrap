@@ -1,0 +1,14 @@
+
+/* 
+    Author     : DAM
+*/
+
+.row>div{border:1px solid black;}
+            
+.container-fluid{max-width: 960px;}
+            
+.morado{background-color: purple;}
+.naranja{background-color: orange;}
+.verde{background-color: green;}
+.marron{background-color: brown;}
+.gris {background-color: grey;}
