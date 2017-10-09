@@ -7,8 +7,13 @@
             
 .container-fluid{max-width: 960px;}
             
-.morado{background-color: purple;}
+.morado{background-color: purple; color: white;}
 .naranja{background-color: orange;}
 .verde{background-color: green;}
-.marron{background-color: brown;}
+.verdeclaro{background-color: lightgreen;}
+.verdeoscuro{background-color: darkgreen; color: white;}
+.marron{background-color: brown; color: white;}
 .gris {background-color: grey;}
+.amarillo{background-color: yellow;}
+.azul{background-color: blue; color: white;}
+.rojo{background-color: red; color: white;}
