@@ -5,7 +5,7 @@
 
 .row>div{border:1px solid black;}
             
-.container-fluid{max-width: 960px;}
+.container-fluid{max-width: 1280px;}
             
 .morado{background-color: purple; color: white;}
 .naranja{background-color: orange;}
