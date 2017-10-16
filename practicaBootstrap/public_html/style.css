@@ -7,13 +7,13 @@
             
 .container-fluid{max-width: 1280px;}
             
-.morado{background-color: purple; color: white;}
-.naranja{background-color: orange;}
-.verde{background-color: green;}
-.verdeclaro{background-color: lightgreen;}
-.verdeoscuro{background-color: darkgreen; color: white;}
-.marron{background-color: brown; color: white;}
-.gris {background-color: grey;}
-.amarillo{background-color: yellow;}
-.azul{background-color: blue; color: white;}
-.rojo{background-color: red; color: white;}
+.morado{background-color: purple; color: white; height: 80px;}
+.naranja{background-color: orange; height: 80px;}
+.verde{background-color: green; height: 80px;}
+.verdeclaro{background-color: lightgreen; height: 80px;}
+.verdeoscuro{background-color: darkgreen; color: white; height: 80px;}
+.marron{background-color: brown; color: white; height: 80px;}
+.gris {background-color: grey; height: 80px;}
+.amarillo{background-color: yellow; height: 80px;}
+.azul{background-color: blue; color: white; height: 80px;}
+.rojo{background-color: red; color: white; height: 80px;}
